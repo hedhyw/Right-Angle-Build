@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="563.80304"
+   height="168.66701"
+   version="1.1"
+   id="svg17"
+   xmlnsSvg="http://www.w3.org/2000/svg"
+   sodipodi:docname="web-badge-2.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview12"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.0638541"
+     inkscape:cx="140.0568"
+     inkscape:cy="37.129152"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15" />
+  <defs
+     id="defs3">
+    <path
+       id="a"
+       d="m 1077.64,854.549 h 266.457 v 93.573 H 1077.64 Z" />
+    <path
+       id="a-4"
+       d="m 1077.64,854.549 h 266.457 v 93.573 H 1077.64 Z" />
+  </defs>
+  <g
+     transform="matrix(6.0571874,0,0,6.1333458,-2218.6388,-1200.9214)"
+     id="g15"
+     style="stroke:#808080">
+    <rect
+       width="92.580002"
+       height="27"
+       x="366.53201"
+       y="196.052"
+       ry="4.5939999"
+       style="fill:#000000;stroke:#808080;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:fill markers stroke"
+       id="rect5" />
+    <text
+       xmlSpace="preserve"
+       style="font-style:normal;font-weight:400;font-size:34.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#a);fill:#000000;fill-opacity:1;stroke:#808080"
+       transform="matrix(0.25513,0,0,0.24831,118.401,-8.236)"
+       id="text11"
+       xml:space="preserve"><tspan
+         x="1077.6406"
+         y="886.0912"
+         id="tspan858"><tspan
+           style="fill:#ffffff"
+           id="tspan856">Try in browser</tspan></tspan></text>
+    <path
+       d="m 381.668,216.648 q -1.49,0 -2.785,-0.559 -1.295,-0.559 -2.253,-1.517 -0.958,-0.958 -1.508,-2.261 -0.55,-1.304 -0.55,-2.794 0,-1.49 0.55,-2.776 0.55,-1.286 1.508,-2.244 0.958,-0.958 2.253,-1.5 1.294,-0.54 2.785,-0.54 1.49,0 2.785,0.54 1.294,0.542 2.252,1.5 0.958,0.958 1.508,2.244 0.55,1.286 0.55,2.776 0,1.49 -0.55,2.794 -0.55,1.303 -1.508,2.261 -0.958,0.958 -2.252,1.517 -1.295,0.559 -2.785,0.559 z m 0,-1.03 q 0.62,-0.638 1.037,-1.463 0.417,-0.824 0.683,-1.96 h -3.423 q 0.248,1.065 0.665,1.916 0.417,0.852 1.038,1.508 z m -1.508,-0.212 q -0.444,-0.674 -0.763,-1.455 -0.32,-0.78 -0.532,-1.756 h -2.661 q 0.674,1.26 1.561,1.978 0.887,0.719 2.395,1.233 z m 3.033,-0.018 q 1.277,-0.408 2.297,-1.224 1.02,-0.816 1.641,-1.969 h -2.643 q -0.23,0.958 -0.541,1.739 -0.31,0.78 -0.754,1.454 z m -7.344,-4.257 h 2.82 q -0.053,-0.479 -0.061,-0.86 -0.01,-0.382 -0.01,-0.754 0,-0.444 0.017,-0.79 0.018,-0.346 0.071,-0.771 h -2.838 q -0.124,0.425 -0.169,0.763 -0.044,0.337 -0.044,0.798 0,0.461 0.044,0.825 0.045,0.363 0.169,0.789 z m 3.92,0 h 3.814 q 0.071,-0.55 0.089,-0.896 0.018,-0.346 0.018,-0.718 0,-0.355 -0.018,-0.683 -0.018,-0.328 -0.089,-0.878 h -3.814 q -0.07,0.55 -0.088,0.878 -0.018,0.328 -0.018,0.683 0,0.372 0.018,0.718 0.018,0.346 0.088,0.896 z m 4.879,0 h 2.838 q 0.124,-0.426 0.168,-0.79 0.045,-0.363 0.045,-0.824 0,-0.461 -0.045,-0.798 -0.044,-0.338 -0.168,-0.763 h -2.82 q 0.053,0.62 0.07,0.949 0.018,0.328 0.018,0.612 0,0.39 -0.027,0.736 -0.026,0.346 -0.08,0.878 z m -0.178,-4.24 h 2.661 q -0.585,-1.224 -1.605,-2.04 -1.02,-0.816 -2.35,-1.153 0.443,0.657 0.753,1.42 0.31,0.762 0.541,1.773 z m -4.505,0 h 3.44 q -0.194,-0.94 -0.655,-1.818 -0.462,-0.878 -1.082,-1.552 -0.568,0.479 -0.958,1.26 -0.39,0.78 -0.745,2.11 z m -3.761,0 h 2.679 q 0.195,-0.957 0.496,-1.711 0.302,-0.754 0.763,-1.464 -1.33,0.337 -2.324,1.135 -0.993,0.799 -1.614,2.04 z"
+       style="fill:#8dd35f;fill-opacity:1;stroke:#808080;stroke-width:0.017739"
+       id="path13" />
+  </g>
+</svg>
